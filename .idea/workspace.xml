@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18371eb5-b889-4524-8879-74eebef245a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Pedra, papel e tesoura.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pedra, papel e tesoura PROJETO.py" afterDir="false" />
+    <list default="true" id="18371eb5-b889-4524-8879-74eebef245a4" name="Changes" comment="Projeto com o intuito de simular um jogo onde terá apenas um vencedor">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +83,42 @@
       <option name="presentableId" value="Default" />
       <updated>1715301005979</updated>
     </task>
+    <task id="LOCAL-00001" summary="Projeto com o intuito de simular um jogo onde terá apenas um vencedor">
+      <option name="closed" value="true" />
+      <created>1715302054244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715302054244</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="83" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="106" />
+                </map>
+              </option>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto com o intuito de simular um jogo onde terá apenas um vencedor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto com o intuito de simular um jogo onde terá apenas um vencedor" />
   </component>
 </project>
